@@ -1,0 +1,30 @@
+body,
+html {
+  background: linear-gradient(#fff,
+    #eeeff1);
+  height: 100vh;
+}
+
+p {
+  font-size: .85rem;
+}
+
+.wrapper {
+  background: #307aab;
+}
+
+.white-card {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+
+.light-text {
+  color: #f2fdfe;
+}
+
+.brown-text {
+  color: #838385;
+}
